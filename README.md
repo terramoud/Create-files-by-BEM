@@ -8,6 +8,7 @@ In terminal enter:
 index this is entry points of your app. In this case it is index.pug index.js and index.scss into them will be adding paths to created files (include, @import and require()). 
 
 In this case PayButton-Arrow_text_bold shall be:
+
         PayButton - this is folder (block by BEM)  
           PayButton.pug
           PayButton.js
